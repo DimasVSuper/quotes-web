@@ -63,6 +63,11 @@ src/
 - Mendukung dark mode & light mode, bisa diubah manual lewat tombol di halaman Home.
 - Desain responsif otomatis untuk mobile, tablet, dan desktop.
 
+## Versi API
+
+- 🚀 [quote-api-typescript-bun (GitHub)](https://github.com/DimasVSuper/quote-api-typescript-bun)
+- 🌐 [ZenQuotes API (Official)](https://zenquotes.io/)
+
 ## 📄 Lisensi
 
 MIT
